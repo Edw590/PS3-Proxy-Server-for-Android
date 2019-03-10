@@ -1,2 +1,2 @@
 # PS3-Proxy-Server-for-Android
-Enter on PSN without being on the newest firmware and disable updates
+PS3 Proxy Server to allow PSN login on older firmwares and to disable firmware updates
