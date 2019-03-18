@@ -36,9 +36,9 @@ After seeing a comment (thanks to @diego18sn PSX), is now in the program the fol
 
 - blckbear_ (PSX-Place) - for helping and giving ideas (so huge credits for him);
 
-- @mondul (GitHub/PSX-Place) - for making the program which is behind the app (so amazing credits for him or the app wouldn't be possible, at least so easily).
+- [@mondul](https://github.com/mondul) (GitHub/PSX-Place) - for making the program which is behind the app (so amazing credits for him or the app wouldn't be possible, at least so easily).
 
-- "@elazarl for his goproxy library and examples. Without it this script [mondul's PS3 Proxy script] would not be possible."
+- "[@elazarl](https://github.com/elazarl) for his goproxy library and examples. Without it this script [mondul's PS3 Proxy script] would not be possible."
 
 Original program used in the app can be found on GitHub: https://github.com/mondul/PS3-Proxy
 
