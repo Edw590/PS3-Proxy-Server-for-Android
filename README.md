@@ -34,7 +34,7 @@ After seeing a comment (thanks to @diego18sn PSX), is now in the program the fol
 
 ### Credits
 
-- @blckbear_ (PSX-Place) - for helping and giving ideas (so huge credits for him);
+- blckbear_ (PSX-Place) - for helping and giving ideas (so huge credits for him);
 
 - @mondul (GitHub/PSX-Place) - for making the program which is behind the app (so amazing credits for him or the app wouldn't be possible, at least so easily).
 
