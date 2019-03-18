@@ -42,7 +42,7 @@ After seeing a comment (thanks to @diego18sn PSX), is now in the program the fol
 
 Original program used in the app can be found on GitHub: https://github.com/mondul/PS3-Proxy
 
-Bugs and ideas:
+### Bugs and ideas:
 
 It already has a bug where at least in KitKat and with my phone, if you enable any of the two options on the settings page, you go back to the initial page and then you restart the app. If you go again to the settings page, they will be disabled. So just don't go there, because if you don't the options will still be enabled. If you go to the settings page again, you'll cause them to disable themselves. I was much time with this and I still couldn't fix this (just a begginer hahaha).
 
