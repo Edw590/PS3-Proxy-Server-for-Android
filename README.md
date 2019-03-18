@@ -5,6 +5,7 @@
 
 After installing the app, just choose a port (or use the default one - 8080), the IP is automatic (though, if needed, I can try to enable the IP choice and publish a version with that enabled), and then just go on the PS3, network settings, and configure the proxy there.
 
+-----
 Copied from the website where I first released this app (PSX-Place): https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/.
 
 ### Introduction
