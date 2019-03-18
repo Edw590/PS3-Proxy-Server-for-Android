@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PS3 Proxy Server for Android</string>
+    <string name="iniciar">Start the server</string>
+    <string name="parar">Stop the server</string>
+    <string name="estado">"Status: "</string>
+    <string name="enter_port">Insert the chosen port...</string>
+    <string name="enter_ip">Insert the chosen IP...</string>
+    <string name="porta">"Port: "</string>
+    <string name="ip_telemovel">None</string>
+    <string name="servidor_ativado">active</string>
+    <string name="nome_servico" translatable="false">PS3 Proxy Server for Android</string>
+    <string name="creditos">Credits</string>
+    <string name="creditos_menu">Credits, WARNING and bugs and ideas</string>
+    <string name="creditos2">- blckbear_ (PSX-Place) - for helping and giving ideas (so huge credits for him);</string>
+    <string name="creditos4">Original program used in the app can be found on GitHub: https://github.com/mondul/PS3-Proxy</string>
+    <string name="creditos5">WARNING</string>
+    <string name="creditos6">This app only works on Android 4.0.3 or newer (I tried to lower as much as I could)!</string>
+    <string name="creditos7">So, if you need the server to work with Android 4.0 and older (being the minimum, Android 2.2, so lower than 2.2 there is no known way), please follow this tutorial, which was made by the same person who helped in this app:</string>
+    <string name="creditos8" translatable="false">https://www.psx-place.com/threads/tutorial-how-to-set-up-ps3-proxy-server-on-android.22846/</string>
+    <string name="creditos9">Bugs and ideas</string>
+    <string name="creditos10">If you found a bug with the app or you have something in mind that you\'d like to see here (or just want to check for an update), please tell me in this thread (official thread):</string>
+    <string name="creditos11" translatable="false">https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/</string>
+    <string name="creditos_botao">Go to the app</string>
+    <string name="creditos3">- mondul (GitHub/PSX-Place) - for making the program which is behind the app (so amazing credits for him or the app wouldn\'t be possible, at least so easily);</string>
+    <string name="creditos1">- DADi590 - for making the app;</string>
+    <string name="definicoes">Settings</string>
+    <string name="servidor">Server</string>
+    <string name="auto_start">Auto start the server at device boot</string>
+    <string name="auto_save">Auto save the server preferences</string>
+    <string name="visitar_site">Visit website</string>
+    <string name="erro">"ERROR: Please insert a port between 1024 and 65535 (the default port is 8080)."</string>
+    <string name="bug">"It already has a bug where at least in KitKat and with my phone, if you enable any of the two options on the settings page, you go back to the initial page and then you restart the app. If you go again to the settings page, they will be disabled. So just don't go there, because if you don't the options will still be enabled. If you go to the settings page again, you'll cause them to disable themselves. I was much time with this and I still couldn't fix this (just a begginer hahaha)."</string>
+</resources>

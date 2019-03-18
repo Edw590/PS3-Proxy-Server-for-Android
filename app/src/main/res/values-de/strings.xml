@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PS3 Proxy Server for Android</string>
+    <string name="ip_telemovel">Keiner</string>
+    <string name="iniciar">Starten Sie den Server</string>
+    <string name="estado">Status:</string>
+    <string name="enter_port">Fügen Sie den ausgewählten Port ein...</string>
+    <string name="enter_ip">Geben Sie die gewählte IP ein...</string>
+    <string name="porta">"Hafen: "</string>
+    <string name="parar">Stoppen Sie den Server</string>
+    <string name="servidor_ativado">aktiv</string>
+    <string name="creditos">Credits</string>
+    <string name="creditos_menu">Credits, WARNUNG und Fehler und Ideen</string>
+    <string name="creditos_botao">Gehen Sie zur App</string>
+    <string name="creditos5">WARNUNG</string>
+    <string name="creditos9">Fehler und Ideen</string>
+    <string name="creditos1">- DADi590 - zum Erstellen der App;</string>
+    <string name="creditos2">- blckbear_ (PSX-Place) - für das Helfen und Geben von Ideen (so viel Anerkennung für ihn)</string>
+    <string name="creditos3">- mondul (GitHub/PSX-Place) - für die Erstellung des Programms, das sich hinter der App befindet (so erstaunliche Credits für ihn oder die App wäre zumindest so einfach nicht möglich)</string>
+    <string name="creditos4">Das in der App verwendete Originalprogramm kann auf GitHub gefunden werden: https://github.com/mondul/PS3-Proxy</string>
+    <string name="creditos10">Wenn Sie einen Fehler in der App gefunden haben oder etwas im Sinn haben, das Sie hier sehen möchten (oder einfach nur nach einem Update suchen möchten), sagen Sie mir bitte in diesem Thread (offizieller Thread):</string>
+    <string name="creditos6">Diese App funktioniert nur mit Android 4.0.3 oder neuer (ich habe versucht, so viel wie möglich zu senken)!</string>
+    <string name="creditos7">Wenn Sie also einen Server mit Android 4.0 oder älter benötigen (mindestens 2.2, also weniger als 2.2, gibt es keinen bekannten Weg), folgen Sie diesem Tutorial, das von derselben Person erstellt wurde, die in dieser App geholfen hat:</string>
+    <string name="definicoes">Einstellungen</string>
+    <string name="servidor">Server</string>
+    <string name="auto_start">Automatischer Start des Servers beim Gerätestart</string>
+    <string name="auto_save">Server-Einstellungen automatisch speichern</string>
+    <string name="visitar_site">Besuche die Website</string>
+    <string name="erro">FEHLER: Bitte geben Sie einen Port zwischen 1024 und 65535 ein (der Standardport ist 8080).</string>
+    <string name="bug">Es gibt bereits einen Fehler, bei dem Sie in KitKat und auf meinem Telefon, wenn Sie eine der beiden Optionen auf der Einstellungsseite aktivieren, zur Startseite zurückkehren und die App neu starten. Wenn Sie erneut zur Einstellungsseite wechseln, werden sie deaktiviert. Gehen Sie also nicht dorthin, denn wenn Sie dies nicht tun, werden die Optionen immer noch aktiviert. Wenn Sie die Einstellungsseite erneut aufrufen, werden sie automatisch deaktiviert. Ich hatte viel Zeit damit und konnte es immer noch nicht reparieren (nur ein Anfänger hahaha).Es gibt bereits einen Fehler, bei dem Sie in KitKat und auf meinem Telefon, wenn Sie eine der beiden Optionen auf der Einstellungsseite aktivieren, zur Startseite zurückkehren und die App neu starten. Wenn Sie erneut zur Einstellungsseite wechseln, werden sie deaktiviert. Gehen Sie also nicht dorthin, denn wenn Sie dies nicht tun, werden die Optionen immer noch aktiviert. Wenn Sie die Einstellungsseite erneut aufrufen, werden sie automatisch deaktiviert. Ich hatte viel Zeit damit und konnte es immer noch nicht reparieren (nur ein Anfänger hahaha).</string>
+</resources>
