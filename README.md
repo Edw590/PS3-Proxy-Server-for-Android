@@ -8,6 +8,17 @@ After installing the app, just choose a port (or use the default one - 8080), th
 -----
 Copied from the website where I first released this app (PSX-Place): https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/.
 
+### ATTENTION!!!!!!!
+
+1. THIS APP RUNS ON ANY FIRMWARE VERSION!!!
+2. ESTA APP FUNCIONA EM QUALQUER VERSÃO DE FIRMWARE!!!
+3. ESTA APLICACIÓN FUNCIONA EN CUALQUIER VERSIÓN DE FIRMWARE !!!
+4. CETTE APP FONCTIONNE SUR TOUTE VERSION FIRMWARE !!!
+5. Diese App läuft auf einer beliebigen FIRMWARE-Version !!!
+6. Это приложение работает на любой версии программного обеспечения!
+
+You could even use it on OFW 3.55 and it would still work (in theory)! No need to not update to 4.84 or 4.85 or whatever version! (unless Sºny finally fixes this issue, but then not even on lower versions the app will work) You can update with no problems!!! The app will still work! It doesn't work only in 4.82 or 4.83 or 4.8X or 4.XX. It's universal! The program inside the app puts the version required by PSN being 0.00, so any version above that one will work! You can update with no problems, don't worry!
+
 ### Introduction
 
 Hi everyone.
