@@ -1,2 +1,4 @@
-# File for PS3 Proxy Server for Android to prompt to download and install updates of the app linked bellow
-1.0 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v1.0.apk
+File for PS3 Proxy Server for Android to prompt to download and install updates of the app linked bellow
+
+v1.0 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v1.0.apk
+- Intial release
