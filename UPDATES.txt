@@ -5,8 +5,14 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 2.0 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v2.0.apk
 - Second release
 2.1 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v2.1.apk
-- Second.one release
+- Second.one release 1
+- Second.one release 2
 2.3 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v2.3.apk
-- Second.three release
+- Second.three release 1
+- Second.three release 2
+- Second.three release 3
 2.4 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v2.4.apk
-- Second.four release
+- Second.four release 1
+- Second.four release 2
+- Second.four release 3
+- Second.four release 4
