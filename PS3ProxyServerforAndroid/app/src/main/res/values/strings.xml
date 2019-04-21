@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name" translatable="false">PS3 Proxy Server for Android</string>
+    <string name="iniciar">Start the server</string>
+    <string name="parar">Stop the server</string>
+    <string name="estado">"Status: "</string>
+    <string name="enter_port">Insert the chosen port...</string>
+    <string name="enter_ip">Insert the chosen IP...</string>
+    <string name="porta">"Port: "</string>
+    <string name="ip_telemovel">None</string>
+    <string name="servidor_ativado">active</string>
+    <string name="nome_servico" translatable="false">PS3 Proxy Server for Android</string>
+    <string name="creditos">Credits</string>
+    <string name="creditos_menu">Credits, WARNING and bugs and ideas</string>
+    <string name="creditos2">- blckbear_ (PSX-Place) - for helping, testing and giving ideas (so huge credits for him);</string>
+    <string name="creditos4">Original program used in the app can be found on GitHub: https://github.com/mondul/PS3-Proxy</string>
+    <string name="creditos5">WARNING</string>
+    <string name="creditos6">This app only works on Android 4.0.3 or newer (I tried to lower as much as I could)!</string>
+    <string name="creditos7">So, if you need the server to work with Android 4.0 and older (being the minimum, Android 2.2, so lower than 2.2 there is no known way), please follow this tutorial, which was made by the same person who helped in this app:</string>
+    <string name="creditos8" translatable="false">https://www.psx-place.com/threads/tutorial-how-to-set-up-ps3-proxy-server-on-android.22846/</string>
+    <string name="creditos9">Bugs and ideas</string>
+    <string name="creditos10">If you found a bug with the app or you have something in mind that you\'d like to see here (or just want to check for an update), please tell me in this thread (official thread):</string>
+    <string name="creditos11" translatable="false">https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/</string>
+    <string name="ir_para_app">Go to the app</string>
+    <string name="creditos3">- mondul (GitHub/PSX-Place) - for making the program which is behind the app (so amazing credits for him or the app wouldn\'t be possible, at least so easily);</string>
+    <string name="creditos1">- DADi590 (GitHub) - for making the app;</string>
+    <string name="definicoes">Settings</string>
+    <string name="servidor">Server</string>
+    <string name="auto_start">Auto start the server at device boot</string>
+    <string name="auto_save">Auto save the server preferences</string>
+    <string name="visitar_site">Visit website</string>
+    <string name="erro">"ERROR: Please insert a port between 1024 and 65535 (the default port is 8080)."</string>
+    <string name="bug">"It already has a bug where at least in KitKat and with my phone, if you enable any of the two options on the settings page, you go back to the initial page and then you restart the app. If you go again to the settings page, they will be disabled. So just don't go there, because if you don't the options will still be enabled. If you go to the settings page again, you'll cause them to disable themselves. I was much time with this and I still couldn't fix this (just a begginer hahaha)."</string>
+    <string name="ficheiro_auto">"Manual file: "</string>
+    <string name="escolher_ficheiro">"Choose file"</string>
+    <string name="auto_gerar_ficheiro">"Manually write ps3-updatelist.txt file"</string>
+    <string name="nao">"No"</string>
+    <string name="sim">"Yes"</string>
+    <string name="atualizar_ip">"Update IP"</string>
+    <string name="ficheiro_escolhido">"Chosen file path: "</string>
+    <string name="nova_atualizacao">"New app version available!"</string>
+    <string name="lista_mudancas">"Changelog"</string>
+    <string name="favor_aguardar">"Please wait... The changelog is being processed."</string>
+    <string name="instalar">"Download and install"</string>
+    <string name="ignorar">"Ignore"</string>
+    <string name="atencao_instalacao">"This app does not provide an automated download and/or installer, so you will be redirected to the GitHub release download link directly and it will start downloading immediatelly with the browser you choose. After the download is complete, please install the updated version of the app, and then, if you wish, disable 'Unkown sources' again for more safety."</string>
+    <string name="desativar_auto_atualizador">Disable the updates notifier (not recommended)</string>
+    <string name="verificar_atualizacoes_manualmente">Manually check for updates</string>
+    <string name="atualizacao_nao_encontrada">No updates available</string>
+    <string name="atualizacao_nao_encontrada_erro">Error while searching for updates</string>
+    <string name="instrucoes">Instructions</string>
+    <string name="instrucoes_na_ps3">On the PS3:</string>
+    <string name="instrucoes1">\'\'On your PS3, select Settings ➡ Network Settings ➡ Internet Connection Settings, press ✖ to continue, select Custom method and continue until you get the Proxy Server screen. Choose Use, continue, enter the IP address you got from the app and continue until you reach the save settings page. press ✖ to save settings and press it again if you want to test the connection. You should now be able to connect to PSN.\'\' (from mondul\'s PS3-Proxy GitHub page, modified)</string>
+    <string name="instrucoes_na_app">On the app:</string>
+    <string name="instrucoes2">Settings: Go to settings and adjust them as you wish. You can choose to:</string>
+    <string name="instrucoes3">- Start the server when the device starts;</string>
+    <string name="instrucoes4">"- Save the preferences of the server (for now, only the port, since there's nothing else to save);"</string>
+    <string name="instrucoes5">"- Disable the updates notifier (not recommended, as you'll miss possible updates, unless you manually check for them from time to time);"</string>
+    <string name="instrucoes6">"- Manually write ps3-updatelist.txt file, if for some reason the automatic one doesn't work for you (please tell me if it doesn't, might be a region issue - or not, and just write your own file);"</string>
+    <string name="instrucoes7">- Manually check for updates.</string>
+    <string name="instrucoes8">IP: For now, until someone asks for it, the IP is automatic when you start the app. If you have the server running and the IP has been changed (for example, a network change), just click Update IP and it will restart the server with the new IP you have. If the IP didn\'t change and you clicked Update IP, nothing will happen.</string>
+    <string name="instrucoes9">Port: Choose the port (or not), a number between 1024 and 65535 (if you try other numbers, it will show an error and the server won\'t be started).</string>
+    <string name="instrucoes10">Updates notifier: When there\'s a new update, every time you start the app, the notifier will warn you about a new update. You can choose to disable the notification for a day, clicking on Ignore on the bottom of the screen. If you click Back, the notification will not be disabled and will keep showing.</string>
+    <string name="ir_para_instrucoes">Go to Instructions</string>
+</resources>
