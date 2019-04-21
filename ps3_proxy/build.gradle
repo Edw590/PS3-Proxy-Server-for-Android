@@ -1,4 +1,0 @@
-configurations.maybeCreate("default")
-artifacts.add("default", file('ps3_proxy.aar'))
-dependencies {
-}
