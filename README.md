@@ -11,13 +11,13 @@ Copied from the website where I first released this app (PSX-Place): https://www
 ### ATTENTION!!!!!!!
 
 1. THIS APP RUNS ON ANY FIRMWARE VERSION!!!
-2. ESTA APP FUNCIONA EM QUALQUER VERSÃƒO DE FIRMWARE!!!
-3. ESTA APLICACIÃ“N FUNCIONA EN CUALQUIER VERSIÃ“N DE FIRMWARE !!!
+2. ESTA APP FUNCIONA EM QUALQUER VERSÃO DE FIRMWARE!!!
+3. ESTA APLICACIÓN FUNCIONA EN CUALQUIER VERSIÓN DE FIRMWARE !!!
 4. CETTE APP FONCTIONNE SUR TOUTE VERSION FIRMWARE !!!
-5. Diese App lÃ¤uft auf einer beliebigen FIRMWARE-Version !!!
-6. Ð­Ñ‚Ð¾ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ Ð½Ð° Ð»ÑŽÐ±Ð¾Ð¹ Ð²ÐµÑ€ÑÐ¸Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð½Ð¾Ð³Ð¾ Ð¾Ð±ÐµÑÐ¿ÐµÑ‡ÐµÐ½Ð¸Ñ!
+5. Diese App läuft auf einer beliebigen FIRMWARE-Version !!!
+6. Это приложение работает на любой версии программного обеспечения!
 
-You could even use it on OFW 3.55 and it would still work (in theory)! No need to not update to 4.84 or 4.85 or whatever version! (unless SÂºny finally fixes this issue, but then not even on lower versions the app will work) You can update with no problems!!! The app will still work! It doesn't work only in 4.82 or 4.83 or 4.8X or 4.XX. It's universal! The program inside the app puts the version required by PSN being 0.00, so any version above that one will work! You can update with no problems, don't worry!
+You could even use it on OFW 3.55 and it would still work (in theory)! No need to not update to 4.84 or 4.85 or whatever version! (unless Sºny finally fixes this issue, but then not even on lower versions the app will work) You can update with no problems!!! The app will still work! It doesn't work only in 4.82 or 4.83 or 4.8X or 4.XX. It's universal! The program inside the app puts the version required by PSN being 0.00, so any version above that one will work! You can update with no problems, don't worry!
 
 ### Introduction
 
