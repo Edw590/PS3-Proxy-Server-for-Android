@@ -1,0 +1,1 @@
+include ':app', ':ps3_proxy'

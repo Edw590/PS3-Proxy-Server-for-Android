@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PS3 Proxy Server for Android</string>
+    <string name="iniciar">Démarrer le serveur</string>
+    <string name="parar">Arrête le serveur</string>
+    <string name="estado">"Statut: "</string>
+    <string name="enter_port">Insérer le port choisi...</string>
+    <string name="enter_ip">Insérer l\'IP choisie...</string>
+    <string name="porta">"Port: "</string>
+    <string name="ip_telemovel">Aucun</string>
+    <string name="servidor_ativado">actif</string>
+    <string name="creditos">Crédits</string>
+    <string name="creditos_menu">Crédits, AVERTISSEMENT et bugs et idées</string>
+    <string name="creditos2">- blckbear_ (PSX-Place) - d’aider et de donner des idées (donc d’énormes crédits pour lui);</string>
+    <string name="creditos4">Le programme original utilisé dans l\'application est disponible sur GitHub: https://github.com/mondul/PS3-Proxy</string>
+    <string name="creditos5">ATTENTION</string>
+    <string name="creditos6">Cette application ne fonctionne que sur Android 4.0.3 ou plus récent (j\'ai essayé d\'abaisser autant que possible)!</string>
+    <string name="creditos7">Donc, si vous avez besoin que le serveur fonctionne avec Android 4.0 et plus ancien (étant le minimum, Android 2.2, donc inférieur à 2.2, il n\'y a aucun moyen connu), veuillez suivre ce tutoriel, qui a été réalisé par la même personne qui a aidé à cette application:</string>
+    <string name="creditos9">Bugs et idées</string>
+    <string name="creditos10">Si vous avez trouvé un bogue dans l\'application ou si vous avez une idée en tête que vous aimeriez voir ici, dites-moi s\'il vous plaît dans ce fil (fil officiel):</string>
+    <string name="creditos_botao">Aller à l\'application</string>
+    <string name="creditos3">- mondul (GitHub / PSX-Place) - pour avoir créé le programme qui se trouve derrière l\'application (des crédits aussi incroyables pour lui ou pour l\'application ne seraient pas possibles, du moins aussi facilement);</string>
+    <string name="creditos1">- DADi590 - pour créer l\'application;</string>
+    <string name="definicoes">Réglages</string>
+    <string name="servidor">Serveur</string>
+    <string name="auto_start">Démarrage automatique du serveur au démarrage de l\'appareil</string>
+    <string name="auto_save">Enregistrer automatiquement les préférences du serveur</string>
+    <string name="visitar_site">Visitez le site web</string>
+    <string name="erro">ERREUR: veuillez insérer un port compris entre 1024 et 65535 (le port par défaut est 8080).</string>
+    <string name="bug">Il y a déjà un bogue dans lequel au moins dans KitKat et avec mon téléphone, si vous activez l\'une des deux options de la page des paramètres, vous revenez à la page initiale, puis vous redémarrez l\'application. Si vous revenez à la page des paramètres, ils seront désactivés. Alors n\'allez pas là-bas, car sinon, les options seront toujours activées. Si vous revenez à la page des paramètres, vous les ferez désactiver. Je passais beaucoup de temps avec cela et je ne pouvais toujours pas résoudre ce problème (juste un débutant hahaha).</string>
+</resources>
