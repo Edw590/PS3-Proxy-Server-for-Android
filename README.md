@@ -65,4 +65,4 @@ PS: I don't need this app, I just decided to try to do it because the other way 
 
 PS_1: You won't find this app on PlayStore, since I need to pay 25$ to put it there... So out of question, at least for now. When/if I put it there, I'll say in PSX-Place and put a note here.
 
- - both these, thanks to DerMinecraftClub123 and Rheloads, who have their server running and doing this automatically on DNS X.X.X.X and X.X.X.X
+ - both these, thanks to Rheloads, who has his server running and doing this automatically on DNS X.X.X.X and X.X.X.X
