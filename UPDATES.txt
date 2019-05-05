@@ -1,7 +1,7 @@
 File for PS3 Proxy Server for Android to prompt to download and install the updates linked bellow (the same that are on "Releases")
 ---
-URLs for the program to use:
-- custom_update_versao --> 4.8402
+Things for the program to use:
+- custom_update_version --> 4.8402
 - custom_update_url --> NONE1
 - custom_manuals_url --> NONE2
 ---
