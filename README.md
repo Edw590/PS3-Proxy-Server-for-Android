@@ -64,5 +64,3 @@ Cheers and good gaming! (please buy the games if you can, the developers deserve
 PS: I don't need this app, I just decided to try to do it because the other way takes TOO MUCH space to run a 3KB program and some people might not have enough space... So I'll not be using it and seeing if there are any bugs on it, so if there are, tell me please. Anyways, if someone needs the server on 4.0 or older, you'll have to use the other way anyways (unless, as I said, it's older than 2.2, for some weird reason, then there's no known way to have the server working).
 
 PS_1: You won't find this app on PlayStore, since I need to pay 25$ to put it there... So out of question, at least for now. When/if I put it there, I'll say in PSX-Place and put a note here.
-
- - both these, thanks to Rheloads, who has his server running and doing this automatically on DNS X.X.X.X and X.X.X.X
