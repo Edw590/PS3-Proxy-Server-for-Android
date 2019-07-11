@@ -1,0 +1,19 @@
+File for PS3 Proxy Server for Android to prompt to download and install the updates linked bellow (the same that are on "Releases")
+---
+Things for the program to use:
+> custom_update_version --> 4.8402
+> custom_update_url --> NONE1
+> custom_manuals_url --> NONE2
+---
+Versions and changelogs for the program to use:
+1.0 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v1.0_-_please_do_not_use.apk
+- Intial release
+- EDIT: Might be better not to use this version, since it doesn't have an updates notifier, but it works well anyways.
+2.0 <-- --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v2.0/PS3_Proxy_Server_for_Android_v2.0.apk
+- Fixed bug of not saving the settings sometimes;
+- Updates notifier added;
+- Manual updates checker added;
+- Instructions screen added;
+- Now it's possible to manually write the ps3-updatelist.txt file (thanks to zaheer7890 (PSX-Place) for the idea, since I had thought it wouldn't be much needed, so if anyone needed to make a manual file because the automatic one wasn't working, please tell me and I'll add your region - hope all regions are there);
+- Colors changed to red, green and yellow on the entire app (was an accident, the change from that green to red, but I think now it looks nicer);
+- Update IP added, so when the IP changes for some reason, it's just click there and the server will restart with the new IP.
