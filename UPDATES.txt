@@ -16,3 +16,8 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - Test 2;
 - Test 3.
 - NOT A REAL RELEASE, THIS IS JUST A TEST!!!
+48765.5345667 <-- --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v48765.5345667/PS3_Proxy_Server_for_Android_v48765.5345667.apk
+- Test 4;
+- Test 5;
+- Test 6.
+- NOT A REAL RELEASE, THIS IS JUST A TEST!!!
