@@ -1,7 +1,5 @@
 File for PS3 Proxy Server for Android to prompt to download and install the updates linked bellow (the same that are on "Releases")
 ---
-> PSX-Place news XML URL --> http://xmbmods.co/whats_new.xml
----
 1.0 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v1.0_-_please_do_not_use.apk
 - Intial release
 - EDIT: Might be better not to use this version, since it doesn't have an updates notifier, but it works well anyways.
