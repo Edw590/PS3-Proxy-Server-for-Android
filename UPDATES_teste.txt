@@ -15,21 +15,21 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - Update IP added, so when the IP changes for some reason, it's just click there and the server will restart with the new IP.
 4.0 |NEW| --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v3.0/PS3_Proxy_Server_for_Android_v4.0.apk
 - The server will automatically restart on boot if it detects that the IP changed. This is useful if you enabled the option for the server to start with the system, and the WiFi didn't start yet but the server is already On. Now, it will restart without ask only when it is started on the device boot. || If it's manually started, it will ask for a restart in a notification when it detects an IP change. || For some reason, sometimes the notification doesn't pop-up with me. I have no idea why;
-
+- 
 - Added custom URL to file redirecting;
-
+- 
 - Enabled IP change of the server (probably won't be of much use except for example for localhost server, but on the PC program it's enabled, so I enabled it here too);
-
+- 
 - Added option to disable the ps3-updatelist.txt redirection, which means the file will not be redirected, and instead the official one will be used;
-
+- 
 - The icon in the notifications is now colored for all Android versions, not just older than Lollipop;
-
+- 
 - All the code is now in english (no idea why I didn't put it in english before...);
-
+- 
 - Added pictures redirection of What's New, PS Store icon (on games column) and TV/Video Services to PSX-Place news (thanks to DeViL303 for letting me use the XML for his plugin of PSX-Place news for What's New) and/or to any RSS feeds;
-
+- 
 - The toolbar will now be persistent on the screen;
-
+- 
 - Update port added;
-
+- 
 - It's now possible to see the logs of everything that the PS3 accesses. This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts.
