@@ -13,7 +13,7 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - Now it's possible to manually write the ps3-updatelist.txt file (thanks to zaheer7890 (PSX-Place) for the idea, since I had thought it wouldn't be much needed, so if anyone needed to make a manual file because the automatic one wasn't working, please tell me and I'll add your region - hope all regions are there);
 - Colors changed to red, green and yellow on the entire app (was an accident, the change from that green to red, but I think now it looks nicer);
 - Update IP added, so when the IP changes for some reason, it's just click there and the server will restart with the new IP.
-|| 4.0 || --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v3.0/PS3_Proxy_Server_for_Android_v4.0.apk
+4.0 <NEW> --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v3.0/PS3_Proxy_Server_for_Android_v4.0.apk
 - The server will automatically restart on boot if it detects that the IP changed. This is useful if you enabled the option for the server to start with the system, and the WiFi didn't start yet but the server is already On. Now, it will restart without ask only when it is started on the device boot. || If it's manually started, it will ask for a restart in a notification when it detects an IP change. || For some reason, sometimes the notification doesn't pop-up with me. I have no idea why;
 - Added custom URL to file redirecting;
 - Enabled IP change of the server (probably won't be of much use except for example for localhost server, but on the PC program it's enabled, so I enabled it here too);
