@@ -1,4 +1,4 @@
-File for PS3 Proxy Server for Android to prompt to download and install the updates linked bellow (the same that are on "Releases")
+File for PS3 Proxy Server for Android to prompt to download and install the updates linked bellow (the same that are on "Releases").
 ---
 > PSX-Place news XML URL -> http://xmbmods.co/whats_new.xml
 ---
