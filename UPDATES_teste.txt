@@ -44,4 +44,7 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - 
 - Update port added;
 - 
-- It's now possible to see the logs of everything that the PS3 accesses. This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts.
+- Updates screen improved;
+- 
+- It's now possible to see the logs of everything that the PS3 accesses. This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts. || ATTENTION - It's not an automatic checker. The automatic checker keeps stopping itself, so I disabled it, and it's only possible to manually check the logs. If you take too much time checking them, I think they'll disappear (the Android doesn't keep the logs forever) and you'll only get the more recent logs. But that should take some time, I think. But for immediate checks and some minutes checks, it works (I didn't check how long they stay there yet, but depends on what you're phone is doing too - and mine doesn't have anything installed for now, so it's doing basically nothing).
+
