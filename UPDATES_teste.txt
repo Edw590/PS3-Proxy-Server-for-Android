@@ -24,7 +24,7 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - 
 - Update IP added, so when the IP changes for some reason, it's just click there and the server will restart with the new IP.
 - 
-4.0 |NEW| --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v2.0/PS3_Proxy_Server_for_Android_v2.0.apk
+2.1 |NEW| --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v2.1/PS3_Proxy_Server_for_Android_v2.1.apk
 - 
 - The server will automatically restart on boot if it detects that the IP changed. This is useful if you enabled the option for the server to start with the system, and the WiFi didn't start yet but the server is already On. Now, it will restart without ask only when it is started on the device boot. || If it's manually started, it will ask for a restart in a notification when it detects an IP change. || For some reason, sometimes the notification doesn't pop-up with me. I have no idea why;
 - 
@@ -46,5 +46,5 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - 
 - Updates screen improved;
 - 
-- It's now possible to see the logs of everything that the PS3 accesses. This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts. || ATTENTION - It's not an automatic checker. The automatic checker keeps stopping itself, so I disabled it, and it's only possible to manually check the logs. If you take too much time checking them, I think they'll disappear (the Android doesn't keep the logs forever) and you'll only get the more recent logs. But that should take some time, I think. But for immediate checks and some minutes checks, it works (I didn't check how long they stay there yet, but depends on what you're phone is doing too - and mine doesn't have anything installed for now, so it's doing basically nothing).
+- It's now possible to see the logs of everything that the PS3 accesses. This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts. || ATTENTION - It's not an automatic checker. The automatic checker keeps stopping itself, so I disabled it, and it's only possible to manually check the logs. A better explanation of this is in the app's instructions.
 
