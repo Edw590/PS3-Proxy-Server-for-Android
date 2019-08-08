@@ -455,21 +455,6 @@ func Server(arguments_str string) (string){
 	}
 
 	proxy.OnRequest().DoFunc(func(r *http.Request, ctx *goproxy.ProxyCtx) (*http.Request, *http.Response) {
-		/*if strings.Contains(r.URL.String(), "rss.xml") && strings.Contains(r.URL.String(), "http://infoboard.ww.dl.playstation.net/download/infoboard/p/e/") {
-			var final_url string = "http://fetchrss.com/rss/5d0cf1f18a93f8e1018b45675d127c408a93f8eb5d8b4567.xml"
-
-			var original_url string = r.URL.String()
-
-			final_url_ready, err := url.Parse(final_url)
-		    if err != nil {
-		        return r, nil
-		    }
-			r.Host=strings.Split(final_url,"/")[2]
-		    r.URL=final_url_ready
-
-			log.Println("LN:"+strconv.Itoa(log_num)+" ; SI:"+session_id+" ; PPSFA - <p><u><b>"+time.Now().Format("2006-01-02 15:04:05")+"</b></u> - <b>[=]</b> Information Board XML redirected <b>--</b> <b>Original URL:</b> "+original_url+" || <b>Redirected to:</b> "+final_url+"</p>")
-		    return r, nil
-		}*/
 		
 		if (strings.Contains(r.URL.String(), ".jpg") || strings.Contains(r.URL.String(), ".png")) && strings.Contains(r.URL.String(), "http://nsx.np.dl.playstation.net/nsx/material/") {
 
@@ -604,33 +589,6 @@ func Server(arguments_str string) (string){
         	return r, nil
         } else {
         	return r, nil
-        }// else if r.URL.String()=="http://ppsfa.main/" {
-        //	return r, goproxy.NewResponse(r,
-		//				goproxy.ContentTypeHtml, http.StatusOK,
-		//				`<!DOCtype html> <html> <script type="text/javascript"> function context_menu_suspension_points_click() { var context_menu_grey_rectangle1 = document.getElementById("context_menu_grey_rectangle"); var context_menu_suspension_points = document.getElementById("context_menu_suspension_points"); var context_menu_grey_rectangle2 = document.querySelector("#context_menu_grey_rectangle"); var context_menu_grey_rectangle_style = getComputedStyle(context_menu_grey_rectangle2); if (context_menu_grey_rectangle_style.display=="none") { context_menu_grey_rectangle1.style.display="block"; context_menu_suspension_points.innerHTML="-->"; } else { context_menu_grey_rectangle1.style.display="none"; context_menu_suspension_points.innerHTML="..."; } } function start_stop_button_click() { var start_stop_button1 = document.getElementById("start_stop_button"); var start_stop_button2 = document.querySelector("#start_stop_button"); var start_stop_button_style = getComputedStyle(start_stop_button2); if (start_stop_button1.text=="II") { start_stop_button1.innerHTML="&#9654;"; /*document.getElementById("start_stop_button").href="start_server.html";*/ document.getElementById("start_stop_button").href="http://ppsfa.query/stop_server.html"; } else { start_stop_button1.innerHTML="II"; /*document.getElementById("start_stop_button").href="start_server.html";*/ document.getElementById("start_stop_button").href="http://ppsfa.query/start_server.html"; } } </script> <style> .inline { float:left; } .clearBoth { clear:both; } html,body { margin:0; font-family:arial; } #everything { margin-left:8px; } #title { font-size:160%; font-weight: bold; background-color:red; width:100%; color:white; padding-top:15px; padding-bottom:15px; padding-left:15px; margin:0; position:absolute; z-index=1; } #back_arrow { font-size:25px; font-weight: bold; text-decoration:none; background-color:red; padding-top:15px; padding-bottom:15px; padding-right:20px; color:white; cursor: pointer; margin:0; } #back_arrow:hover { background-color:#ff4a4a; } #back_arrow:active { background-color:#cc0000; } #middle_space { font-size:25px; font-weight: bold; background-color:red; color:white; padding-top:9px; padding-bottom:21px; margin:0; text-align:right; } .context_menu_options { text-decoration:none; color:white; } #context_menu_suspension_points { font-size:25px; font-weight: bold; background-color:red; color:white; padding-top:10px; padding-right:25px; padding-left:25px; padding-bottom:20px; margin:0; text-align:right; cursor: pointer; right:0; text-decoration:none; z-index:2; position:absolute; } #context_menu_suspension_points:hover { background-color:#ff4a4a; } #context_menu_suspension_points:active { background-color:#cc0000; } .IP_port { padding-top:30px; padding-left:25px; margin:0; } #context_menu_grey_rectangle { background-color:#383838;color:#000000; font-size: 21px; font-family:arial; width:400px; margin:0px;margin-right:15px;margin-top:75px; padding-top:5px;padding-left:5px;padding-right:5px;padding-bottom:5px; border: 1px solid #959B9E; float:right; z-index:8; display:none; } #start_stop_button { color:black; font-size:100px; background-color:#E2DAF2; width:80px; text-decoration:none; margin:0;margin-top:50px;margin-left:90px; padding-left:20px; border: 1px solid #959B9E; cursor:pointer; position:absolute; } #start_stop_button:active { background-color:#9e9e9e } #status { font-size:40px; position:absolute; margin:0;margin-top:230px;margin-left:35px; } </style> <head> <link href="http://nsx.np.dl.playstation.net/nsx/material/b/b39f8bc7dd1ba36204382651a6d31863f885c8c1-1206980.jpg" rel="icon" type="image/x-icon"/> <title>PS3 Proxy Server for Android</title> </head> <body> <p id="title" class="inline">PS3 Proxy Server for Android</p><a id="context_menu_suspension_points" href="javascript:context_menu_suspension_points_click()">...</a> <div id="everything"> <div id="context_menu_grey_rectangle"> <a class="context_menu_options" href="http://ppsfa.instructions/" style="padding-right:73%">How to use</a> <p><a class="context_menu_options" href="http://ppsfa.settings/" style="padding-right:80%">Settings</a></p> <a class="context_menu_options" href="http://ppsfa.credits/" style="padding-right:7%">Credits, WARNING and bugs and ideas</a> </div> <p class="IP_port">IP :<input class="ip_port_input_box" type="text" placeholder="" value="localhost" style="margin-left:39px"></p> <p class="IP_port">Port :<input class="ip_port_input_box" type="number" placeholder="" value="8080" style="margin-left:25px"></p> <a href="" target="_blank" id="start_stop_button" onclick="start_stop_button_click()">&#9654;</a> <p id="status">Status: OFF</p> </div> </body> </html>`)
-        //} else if r.URL.String()=="http://ppsfa.instructions/" {
-        //	return r, goproxy.NewResponse(r,
-		//				goproxy.ContentTypeHtml, http.StatusOK,
-		//				`<!DOCtype html> <html> <script type="text/javascript"> function go_back() { window.history.back(); } </script> <style> html,body { margin:0; font-family:arial; } #everything { margin:8px; } #title { font-size:25px; font-weight: bold; background-color:red; color:white; padding-top:15px; padding-bottom:15px; margin:0; } #back_arrow { font-size:25px; font-weight: bold; text-decoration:none; background-color:red; padding-top:15px; padding-bottom:15px; padding-right:20px; color:white; cursor: pointer; margin:0; } #back_arrow:hover { background-color:#ff4a4a; } #back_arrow:active { background-color:#cc0000; } p.inline { float:left; } a.inline { float:left; } .clearBoth { clear:both; } </style> <head> <link href="http://nsx.np.dl.playstation.net/nsx/material/b/b39f8bc7dd1ba36204382651a6d31863f885c8c1-1206980.jpg" rel="icon" type="image/x-icon"/> <title>PPSFA - Instructions</title> </head> <body> <a id="back_arrow" class="inline" href="javascript:go_back()">&nbsp; <--</a><p id="title">&nbsp; &nbsp; &nbsp; PS3 Proxy Server for Android</p> <div id="everything"> <h2><font color="#07b315">Instructions</font></h2> <h3><font color="orange">On the PS3</font></h3> <p>On your PS3, select Settings ➡ Network Settings ➡ Internet Connection Settings, press ✖ to continue, select Custom method and continue until you get the Proxy Server screen. Choose Use, continue, enter the IP address you got from the app and continue until you reach the save settings page. press ✖ to save settings and press it again if you want to test the connection. You should now be able to connect to PSN. (from mondul's PS3-Proxy GitHub page, modified) <h3><font color="orange">On the app</font></h3> <p><u>Settings:</u> Go to settings and adjust them as you wish. You can choose to:</p> <p>- Start the server when the device starts;</p> <p>- Save the preferences of the server (for now, only the port, since there's nothing else to save);</p> <p>- Disable the updates notifier (not recommended, as you'll miss possible updates, unless you manually check for them from time to time);</p> <p>- Manually write ps3-updatelist.txt file, if for some reason the automatic one doesn't work for you (please tell me if it doesn't, might be a region issue - or not, and just write your own file);</p> <p>- Manually check for updates.</p> <p><u>IP:</u> For now, until someone asks for it, the IP is automatic when you start the app. If you have the server running and the IP has been changed (for example, a network change), just click Update IP and it will restart the server with the new IP you have. If the IP didn't change and you clicked Update IP, nothing will happen.</p> <p><u>Port:</u> Choose the port (or not), a number between 1024 and 65535 (if you try other numbers, it will show an error and the server won't be started).</p> <p><u>Updates notifier:</u> When there's a new update, every time you start the app, the notifier will warn you about a new update. You can choose to disable the notification for a day, clicking on Ignore on the bottom of the screen. If you click Back, the notification will not be disabled and will keep showing.</p> </div> </body> </html>`)
-        //} else if strings.Contains(r.URL.String(),"http://ppsfa.query/") {
-        //	return r, goproxy.NewResponse(r,
-		//				goproxy.ContentTypeHtml, http.StatusOK,
-		//				`<script type="text/javascript">window.close();</script>`)
-        //} else {
-	})
-
-	//Then I realized I can't make the connection through the phone without changing the system settings which users might not like, as they could be doing something... But it worked on the PC (didn't get to try on the PS3)
-	/*proxy.OnRequest(goproxy.UrlMatches(regexp.MustCompile("ppsfa.si."+session_id+"/shutdown.server"))).DoFunc(
-        func(r *http.Request, ctx *goproxy.ProxyCtx) (*http.Request, *http.Response) {
-		    log.Println("LN:"+strconv.Itoa(log_num)+" ; SI:"+session_id+" ; PPSFA - <p><u><b>"+time.Now().Format("2006-01-02 15:04:05")+"</b></u> - <b>[!]</b> Stopped PS3 Proxy Server at " + address+"</p>")
-			
-        	os.Exit(0)
-
-			//This will never be shown
-			return r, goproxy.NewResponse(r,
-				goproxy.ContentTypeHtml, http.StatusNotFound,
-            	"<center><font size='6'>-----PS3 Proxy Server for Android-----</font><p><font size='5'>Server successefully stopped on "+time.Now().Format("2006-01-02 15:04:05")+"</font></p></center>")
-    	})*/
 
 	log.Println("LN:"+strconv.Itoa(log_num)+" ; SI:"+session_id+" ; PPSFA - <p><u><b>"+time.Now().Format("2006-01-02 15:04:05")+"</b></u> - <b>[*]</b> Started PS3 Proxy Server at "+address+"</p>")
 	log_num+=1
