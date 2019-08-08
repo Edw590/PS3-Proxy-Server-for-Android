@@ -46,7 +46,7 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - 
 - Updates screen improved;
 - 
-- It's now possible to see the logs of everything that the PS3 accesses. This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts. || ATTENTION - It's not an automatic checker. The automatic checker keeps stopping itself, so I disabled it, and it's only possible to manually check the logs. A better explanation of this is in the app's instructions;
+- It's now possible to see the logs of everything that the PS3 accesses and save them in an HTML file (access files permission required). This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts. || ATTENTION - It's not an automatic checker. The automatic checker keeps stopping itself, so I disabled it, and it's only possible to manually check the logs. A better explanation of this is in the app's instructions;
 - 
 - Added an automated downloader an installer prompter, so you don't have to manually download and install - though, that is still an option if you refuse the permission to access your files (to store the update file) or if you stop the download.
 
