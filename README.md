@@ -21,6 +21,8 @@ Copied from the website where I first released this app (PSX-Place): https://www
 
 You could even use it on OFW 3.55 and it would still work (in theory)! No need to not update to 4.84 or 4.85 or whatever version! (unless Sºny finally fixes this issue, but then not even on lower versions the app will work) You can update with no problems!!! The app will still work! It doesn't work only in 4.82 or 4.83 or 4.8X or 4.XX. It's universal! The program inside the app puts the version required by PSN being 0.00, so any version above that one will work! You can update with no problems, don't worry!
 
+Update (languages): I'm sorry, the languages were reduced to English, Portuguese and Spanish. I don't have enough time to be translating to the others, because I more or less try to see if there is something that might be wrong in them (even though I don't understand them), so I've removed them, because I added a lot more written things. Though, if anyone wants to translate the app, just tell me.
+
 ### Introduction
 
 Hi everyone.
