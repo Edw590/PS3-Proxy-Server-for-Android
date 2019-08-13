@@ -8,7 +8,7 @@ After installing the app, just choose a port (or use the default one - 8080), th
 -----
 Copied from the website where I first released this app (PSX-Place): https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/.
 
-### Latest app version: 2.0
+### Latest app version: 2.1
 
 ### ATTENTION!!!!!!!
 
@@ -55,7 +55,7 @@ After seeing a comment (thanks to @diego18sn PSX), is now in the program the fol
 
 - "[@elazarl](https://github.com/elazarl) for his goproxy library and examples. Without it this script [mondul's PS3 Proxy script] would not be possible."
 
-Original program used in the app can be found on GitHub: https://github.com/mondul/PS3-Proxy
+Original program used in the app (not heavily modified) can be found on GitHub: https://github.com/mondul/PS3-Proxy
 
 ### Bugs and ideas:
 
