@@ -8,9 +8,9 @@ After installing the app, just choose a port (or use the default one - 8080), th
 -----
 Copied from the website where I first released this app (PSX-Place): https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/.
 
-Note: To see what the next version might have, see this link: https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases. I always write there what's coming and I keep updating it, so I don't forget and others can possibly see and say something in case they don't agree or have a better idea.
+**Note:** To see what the next version might have, see this link: https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases. I always write there what's coming and I keep updating it, so I don't forget and others can possibly see and say something in case they don't agree or have a better idea.
 
-This app can be used on ALL Firmwares! That means, OFW (HFW, which is OFW) and CFW. It was made for HAN, but works without anything on the PS3 - pure OFW. Works too with PS3HEN and CFW. Anything. It doesn't need anything special on the PS3 aside from configuring the network settings.
+**This app can be used on ALL Firmwares! That means, OFW (HFW, which is OFW) and CFW. It was made for HAN, but works without anything on the PS3 - pure OFW. Works too with PS3HEN and CFW. Anything. It doesn't need anything special on the PS3 aside from configuring the network settings.**
 
 ### Latest app version: 2.1
 
@@ -23,9 +23,9 @@ This app can be used on ALL Firmwares! That means, OFW (HFW, which is OFW) and C
 5. #### Diese App läuft auf einer beliebigen FIRMWARE-Version !!!
 6. #### Это приложение работает на любой версии программного обеспечения!
 
-You could even use it on OFW 3.55 and it would still work (in theory)! No need to not update to 4.84 or 4.85 or whatever version! (unless Sºny finally fixes this issue, but then not even on lower versions the app will work) You can update with no problems!!! The app will still work! It doesn't work only in 4.82 or 4.83 or 4.8X or 4.XX. It's universal! The program inside the app puts the version required by PSN being 0.00, so any version above that one will work! You can update with no problems, don't worry!
+**You could even use it on OFW 3.55 and it would still work (in theory)! No need to not update to 4.84 or 4.85 or whatever version! (unless Sºny finally fixes this issue, but then not even on lower versions the app will work) You can update with no problems!!! The app will still work! It doesn't work only in 4.82 or 4.83 or 4.8X or 4.XX. It's universal! The program inside the app puts the version required by PSN being 0.00, so any version above that one will work! You can update with no problems, don't worry!**
 
-Update (languages): I'm sorry, the languages were reduced to English, Portuguese and Spanish. I don't have enough time to be translating to the others, because I more or less try to see if there is something that might be wrong in them (even though I don't understand them), so I've removed them, because I added a lot more written things. Though, if anyone wants to translate the app, just tell me.
+**Update (languages):** I'm sorry, the languages were reduced to English, Portuguese and Spanish. I don't have enough time to be translating to the others, because I more or less try to see if there is something that might be wrong in them (even though I don't understand them), so I've removed them, because I added a lot more written things. Though, if anyone wants to translate the app, just tell me.
 
 ### Introduction
 
