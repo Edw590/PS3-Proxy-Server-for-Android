@@ -10,7 +10,7 @@ Copied from the website where I first released this app (PSX-Place): https://www
 
 **Note:** To see what the next version might have, see this link: https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases. I always write there what's coming and I keep updating it, so I don't forget and others can possibly see and say something in case they don't agree or have a better idea.
 
-**This app can be used on ALL Firmwares! That means, OFW (HFW, which is OFW) and CFW. It was made for HAN, but works without anything on the PS3 - pure OFW. Works too with PS3HEN and CFW. Anything. It doesn't need anything special on the PS3 aside from configuring the network settings.**
+**This app can be used on ALL Firmwares! That means, OFW (HFW too..., which is OFW) and CFW. It was made for HAN, but works without anything on the PS3 - pure OFW. Works too with PS3HEN and CFW. Anything. It doesn't need anything special on the PS3 aside from configuring the network settings.**
 
 ### Latest app version: 2.1
 
