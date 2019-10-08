@@ -1,1 +1,1 @@
-File to enable GitHub JavaScript detection, since JavaScript code is included inside the XML files.
+File to enable GitHub Java detection, since Java code is included inside ZIP files.
