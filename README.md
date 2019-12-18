@@ -1,5 +1,5 @@
 # PS3-Proxy-Server-for-Android
-"PS3 proxy to allow PSN login on older firmwares" (and to block system updates) - for Android
+PS3 Proxy server with various options, like firmware "spoof" and system update blocker - for Android
 
 ## How to use
 
