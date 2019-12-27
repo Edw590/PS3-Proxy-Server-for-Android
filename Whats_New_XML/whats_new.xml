@@ -1,35 +1,147 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
-	<spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
-		<mtrl id="0" lastm="ERROR" until="2100-12-31T23:59:00.000Z">
+	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2019-12-27T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>[Livestreams added] The 36th Chaos Communication Congress (#36C3) - Everything you need to know!</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19989-6ec230700822dd9891118f8feff991dd.jpg</url>
 			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/livestreams-added-the-36th-chaos-communication-congress-36c3-everything-you-need-to-know.27305/</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="ERROR" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="0" lastm="2019-12-27T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>[Livestreams added] sThe 36th Chaos Communication Congress (#36C3) - Everything you need to know!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19989-6ec230700822dd9891118f8feff991dd.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/livestreams-added-the-36th-chaos-communication-congress-36c3-everything-you-need-to-know.27305/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-24T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>PSX-Place.com wishes you a Merry Christmas &amp; Happy Holidays!</desc>
-			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/ERROR.png</url>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___i.postimg.cc_9XDV2cw1_Christmas-tree.png</url>
 			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/psx-place-com-wishes-you-a-merry-christmas-happy-holidays.27540/</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="ERROR" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="0" lastm="2019-12-17T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>OpenBOR Engine ported to Ps4 (by Znullptr)</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20088-aa1ca8d74e2f9d5c11827c15a37d1ba9.jpg</url>
 			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/openbor-engine-ported-to-ps4-by-znullptr.27443/</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="ERROR" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Meet "PSVshell" - a very beautiful and useful Overclocking Plugin by Electry</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19972-ada178e94af8abf05395beb3050c2416.jpg</url>
 			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/meet-psvshell-a-very-beautiful-and-useful-overclocking-plugin-by-electry.27290/</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="ERROR" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>PS-Phwoar! (for 5.05): A new Exploit Host Menu (with PS4 Home inspired theme) by Leeful</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19960-c232495e739b91b538bc568778c36cf3.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps-phwoar-for-5-05-a-new-exploit-host-menu-with-ps4-home-inspired-theme-by-leeful.27289/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-27T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>[Livestreams added] sThe 36th Chaos Communication Congress (#36C3) - Everything you need to know!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19989-6ec230700822dd9891118f8feff991dd.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/livestreams-added-the-36th-chaos-communication-congress-36c3-everything-you-need-to-know.27305/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-24T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>PSX-Place.com wishes you a Merry Christmas &amp; Happy Holidays!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___i.postimg.cc_9XDV2cw1_Christmas-tree.png</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/psx-place-com-wishes-you-a-merry-christmas-happy-holidays.27540/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-17T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>OpenBOR Engine ported to Ps4 (by Znullptr)</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20088-aa1ca8d74e2f9d5c11827c15a37d1ba9.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/openbor-engine-ported-to-ps4-by-znullptr.27443/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Meet "PSVshell" - a very beautiful and useful Overclocking Plugin by Electry</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19972-ada178e94af8abf05395beb3050c2416.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/meet-psvshell-a-very-beautiful-and-useful-overclocking-plugin-by-electry.27290/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>PS-Phwoar! (for 5.05): A new Exploit Host Menu (with PS4 Home inspired theme) by Leeful</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19960-c232495e739b91b538bc568778c36cf3.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps-phwoar-for-5-05-a-new-exploit-host-menu-with-ps4-home-inspired-theme-by-leeful.27289/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-27T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>[Livestreams added] sThe 36th Chaos Communication Congress (#36C3) - Everything you need to know!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19989-6ec230700822dd9891118f8feff991dd.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/livestreams-added-the-36th-chaos-communication-congress-36c3-everything-you-need-to-know.27305/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-24T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>PSX-Place.com wishes you a Merry Christmas &amp; Happy Holidays!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___i.postimg.cc_9XDV2cw1_Christmas-tree.png</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/psx-place-com-wishes-you-a-merry-christmas-happy-holidays.27540/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-17T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>OpenBOR Engine ported to Ps4 (by Znullptr)</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20088-aa1ca8d74e2f9d5c11827c15a37d1ba9.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/openbor-engine-ported-to-ps4-by-znullptr.27443/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Meet "PSVshell" - a very beautiful and useful Overclocking Plugin by Electry</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19972-ada178e94af8abf05395beb3050c2416.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/meet-psvshell-a-very-beautiful-and-useful-overclocking-plugin-by-electry.27290/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>PS-Phwoar! (for 5.05): A new Exploit Host Menu (with PS4 Home inspired theme) by Leeful</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19960-c232495e739b91b538bc568778c36cf3.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps-phwoar-for-5-05-a-new-exploit-host-menu-with-ps4-home-inspired-theme-by-leeful.27289/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-27T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>[Livestreams added] sThe 36th Chaos Communication Congress (#36C3) - Everything you need to know!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19989-6ec230700822dd9891118f8feff991dd.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/livestreams-added-the-36th-chaos-communication-congress-36c3-everything-you-need-to-know.27305/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-24T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>PSX-Place.com wishes you a Merry Christmas &amp; Happy Holidays!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___i.postimg.cc_9XDV2cw1_Christmas-tree.png</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/psx-place-com-wishes-you-a-merry-christmas-happy-holidays.27540/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-17T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>OpenBOR Engine ported to Ps4 (by Znullptr)</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20088-aa1ca8d74e2f9d5c11827c15a37d1ba9.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/openbor-engine-ported-to-ps4-by-znullptr.27443/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Meet "PSVshell" - a very beautiful and useful Overclocking Plugin by Electry</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19972-ada178e94af8abf05395beb3050c2416.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/meet-psvshell-a-very-beautiful-and-useful-overclocking-plugin-by-electry.27290/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2019-12-07T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>PS-Phwoar! (for 5.05): A new Exploit Host Menu (with PS4 Home inspired theme) by Leeful</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19960-c232495e739b91b538bc568778c36cf3.jpg</url>
 			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps-phwoar-for-5-05-a-new-exploit-host-menu-with-ps4-home-inspired-theme-by-leeful.27289/</target>
