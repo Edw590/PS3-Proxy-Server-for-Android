@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2019-12-28T23:27:25.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>RetroArch (PS4) - Unofficial build comes to the PS4 (by  OsirisX), includes 25 libretro cores</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/ERROR.png</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/retroarch-ps4-unofficial-build-comes-to-the-ps4-by-osirisx-includes-25-libretro-cores.27573/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
 		<mtrl id="0" lastm="2019-12-27T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>[Livestreams added] The 36th Chaos Communication Congress (#36C3) - Everything you need to know!</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19989-6ec230700822dd9891118f8feff991dd.jpg</url>
