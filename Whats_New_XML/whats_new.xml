@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
-	<spc anno="csxad=1&amp;adspace=9,10,11,12,13&amp;picks=1" id="33537" multi="o" rep="t">
+	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
 		<mtrl id="0" lastm="2019-12-29T23:31:39.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>[Replays added] The 36th Chaos Communication Congress (#36C3) - Everything you need to know!</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_19_19989-6ec230700822dd9891118f8feff991dd.jpg</url>
@@ -22,8 +22,6 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-	</spc>
-	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
 		<mtrl id="0" lastm="2019-12-24T21:27:17.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>PSX-Place.com wishes you a Merry Christmas &amp; Happy Holidays!</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___i.postimg.cc_9XDV2cw1_Christmas-tree.png</url>
