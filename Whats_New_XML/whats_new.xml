@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-01-08T02:22:52.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>PS5 Logo Introduced @ CES &amp; New PS5 forums here at psx-place</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20519-aaba5a2b3066f4a4e570f23cf8092dee.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/ps5-logo-introduced-ces-new-ps5-forums-here-at-psx-place.27708/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
 		<mtrl id="0" lastm="2020-01-06T02:02:26.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Artemis PS3 (r6.net): Cheating system updated with 4.85 CFW Support &amp; New Features added</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20478-38e35608d576874bbf4ca3cdddd33de1.jpg</url>
