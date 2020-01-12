@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-01-12T03:37:45.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Meet "Blu-Play" - A Development Platform for creating Homebrew Games running on OFW!</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20919-51ba9e4e03cb83d9cc9f4cd7808616af.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/meet-blu-play-a-development-platform-for-creating-homebrew-games-running-on-ofw.27784/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-01-12T03:37:45.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Volume Control Pack (by GrapheneCt):  Control system Audio in real-time</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20911-ac197b859b2bde60559dfd464954d822.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/volume-control-pack-by-graphenect-control-system-audio-in-real-time.27767/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
 		<mtrl id="0" lastm="2020-01-10T03:02:31.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PS2 Classic GUI for PlayStation 4 updated to v1.0.0.22</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20800-67cf077227be6effe8c787ea293a8993.jpg</url>
