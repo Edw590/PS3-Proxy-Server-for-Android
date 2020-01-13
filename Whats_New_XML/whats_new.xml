@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-01-13T04:02:31.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>vitaQuakeIII v0.9 Released - Data Files Downloader Added +  "Urban Terror" support added</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20945-d3ff237af39866cf37af4f01a01a0da7.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/vitaquakeiii-v0-9-released-data-files-downloader-added-urban-terror-support-added.27789/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-01-13T04:02:31.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>webMAN MOD v1.47.26 updated by Aldostools</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20940-d9880be10996649b9f14fb79933b6a28.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/webman-mod-v1-47-26-updated-by-aldostools.27788/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-01-13T04:02:31.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>RetroArch v1.8.3:  PS Vita &amp; PSP Ports "massively increased core collection"</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20931-2eb68d599d28deba19a90e18bce35c3e.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/retroarch-v1-8-3-ps-vita-psp-ports-massively-increased-core-collection.27778/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-01-13T04:02:31.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>FORTUNA FMCB Launcher by VTSTech</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20946-774ae88a9f1ee6e99bc769342e5b9704.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/fortuna-fmcb-launcher-by-vtstech.27565/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
 		<mtrl id="0" lastm="2020-01-12T03:37:45.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Meet "Blu-Play" - A Development Platform for creating Homebrew Games running on OFW!</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20919-51ba9e4e03cb83d9cc9f4cd7808616af.jpg</url>
