@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-01-21T06:50:51.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Universal Media Server v9.2.0 Released</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_21_21381-82b169b28ead0403dd98fa729213ff83.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/universal-media-server-v9-2-0-released.27904/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
 		<mtrl id="0" lastm="2020-01-17T05:09:50.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>[UPDATE] RetroArch v1.8.4:  PS Vita &amp; PSP Ports "massively increased core collection"</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_20_20931-2eb68d599d28deba19a90e18bce35c3e.jpg</url>
