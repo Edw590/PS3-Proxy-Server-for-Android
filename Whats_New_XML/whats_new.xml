@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 	<spc anno="csxad=1&amp;adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<mtrl id="0" lastm="2020-02-10T17:07:21.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>The Power Supply (vol. I) Featuring a chat with developer deank (creator of multiMAN / webMAN &amp; ...)</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_22_22253-83907afe9877d34439be7388b1802db1.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/the-power-supply-vol-i-featuring-a-chat-with-developer-deank-creator-of-multiman-webman.28126/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2020-02-10T17:07:21.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>[Update-Plus Edition] FBNeo RL (Retro Loader): A fork of FBA RL</desc>
+			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_22_22171-d1680a27ae40a0f7eb1581949c8ab46a.jpg</url>
+			<target type="u">http://webproxy.to/browse.php?u=https://www.psx-place.com/threads/update-plus-edition-fbneo-rl-retro-loader-a-fork-of-fba-rl.28095/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
 		<mtrl id="0" lastm="2020-02-09T17:02:58.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Apollo Save Tool v0.5.0 released</desc>
 			<url type="2">https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/https___www.psx-place.com_data_attachments_22_22241-2527d042a9a5f45339f8402c65e7fb51.jpg</url>
