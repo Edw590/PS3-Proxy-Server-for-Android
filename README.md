@@ -61,7 +61,7 @@ After seeing a comment (thanks to @diego18sn PSX), is now in the program the fol
 
 - "[@elazarl](https://github.com/elazarl) for his goproxy library and examples. Without it this script [mondul's PS3 Proxy script] would not be possible."
 
-Original program used in the app (not heavily modified) can be found on GitHub: https://github.com/mondul/PS3-Proxy
+Original program used in the app (now heavily modified) can be found on GitHub: https://github.com/mondul/PS3-Proxy
 
 ### Bugs and ideas:
 
