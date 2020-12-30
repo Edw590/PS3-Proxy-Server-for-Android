@@ -18,7 +18,7 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - 
 - Sony might actually ban people, maybe not. Who knows. Better be safe than sorry, no?
 - 
-- SUM UP: HEN/HAN people gotta update now (unless HEN people only go online with HEN enabled, and in that case it's fine to patch and not to update, but one file will still be untouched, so bad idea -> update). CFW people can choose. either patch, or update. since they can patch whatever and be cool with it
+- SUM UP: HEN/HAN people gotta update now (unless HEN people only go online with HEN enabled, and in that case it's fine to patch and not to update, but one file (vsh.self) can't be touched on HEN, so bad idea -> update). CFW people can choose. Either patch, or update, since they can patch whatever files they want and be cool with it (the system will not break down as it will for those on HEN who decide to modify vsh.self - the firmware will need to be reinstalled through Recovery Mode).
 - 
 - ----------------------------------------------------------------------------------
 - CHANGE YOUR PASSWORD ON YOUR PSN ACCOUNTS!!!!! IT MIGHT HAVE BEEN ONE OF THE HACKED ONES!!!!
