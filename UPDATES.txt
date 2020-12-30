@@ -2,50 +2,33 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 ---
 > PSX-Place news XML URL -> https://raw.githubusercontent.com/DADi590/PS3-Proxy-Server-for-Android/master/Whats_New_XML/whats_new.xml
 ---
-1.0 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v1.0/PS3_Proxy_Server_for_Android_v1.0_-_please_do_not_use.apk
+9.99 |BANNING SYSTEM AND HACKED ACCOUNTS WARNING!!! DO NOT SPOOF AND GO ONLINE WITHOUT READING THIS!!!| --> https://www.psx-place.com/threads/new-ps3-firmware-update-4-87.31945/page-12#post-269026
 - 
-- Intial release
+- DON'T SPOOF THE PS3 TO ANY FIRMWARE, GET TO THE LATEST FIRMWARE YOURSELF!!!!!!!!! IT WILL GET YOU BANNED!!!!!!!!!!!!!
 - 
-- EDIT: Might be better not to use this version, since it doesn't have an updates notifier, but it works well anyways.
+- Apps like SEN Enabler, PSNPatch, webMAN, the proxy app for Android or for PC, ANYthing. Those will NOT get you safe.
 - 
-2.0 --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v2.0/PS3_Proxy_Server_for_Android_v2.0.apk
+- ORIGINAL TALK HERE, from Habib himself: https://www.psx-place.com/threads/new-ps3-firmware-update-4-87.31945/page-12#post-269026 (click on Download and Install and then click on the notification to go to it automatically).
 - 
-- Fixed bug of not saving the settings sometimes;
+- There's a way to stay in older firmwares though, and keep using those apps I said up there. BUT you need to do this, or they won't keep you safe:
+- - Decrypt the files np_oauth.sprx and vsh.self;
+- - On those, change %02d.%02d to 04.87 (without the quotation marks);
+- - Encrypt both files again and replace the original ones.
+- After doing that, everything comes back to normal and you can keep using the apps you use to spoof the firmware version.
 - 
-- Updates notifier added;
+- Sony might actually ban people, maybe not. Who knows. Better be safe than sorry, no?
 - 
-- Manual updates checker added;
+- SUM UP: HEN/HAN people gotta update now (unless HEN people only go online with HEN enabled, and in that case it's fine to patch and not to update, but one file (vsh.self) can't be touched on HEN, so bad idea -> update). CFW people can choose. Either patch, or update, since they can patch whatever files they want and be cool with it (the system will not break down as it will for those on HEN who decide to modify vsh.self - the firmware will need to be reinstalled through Recovery Mode).
 - 
-- Instructions screen added;
+- ----------------------------------------------------------------------------------
+- CHANGE YOUR PASSWORD ON YOUR PSN ACCOUNTS!!!!! IT MIGHT HAVE BEEN ONE OF THE HACKED ONES!!!!
+- From Habib at the link above, "At this point I can safely say in last 8 months ATLEAST million accounts have been hacked"
 - 
-- Now it's possible to manually write the ps3-updatelist.txt file (thanks to zaheer7890 (PSX-Place) for the idea, since I had thought it wouldn't be much needed, so if anyone needed to make a manual file because the automatic one wasn't working, please tell me and I'll add your region - hope all regions are there);
+- You're account will NOT be hacked if you had 2FA enabled on it, I believe!!! (if it's the same hack as I heard months ago)
+- I mean hacked, but not only PS3 accounts were hacked -> the ENTIRE PSN. So change the password on ALL your accounts (if they didn't have 2 Factor Authentication enabled for the past year - mine has since years ago, so no need to change it in my case).
 - 
-- Colors changed to red, green and yellow on the entire app (was an accident, the change from that green to red, but I think now it looks nicer);
+- ----------------------------------------------------------------------------------
 - 
-- Update IP added, so when the IP changes for some reason, it's just click there and the server will restart with the new IP.
+- Link for all this on the Download and Install button. Then click on the notification to go directly there.
 - 
-2.1 |NEW| --> https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases/download/v2.1/PS3_Proxy_Server_for_Android_v2.1.apk
-- 
-- The server will automatically restart on boot if it detects that the IP changed. This is useful if you enabled the option for the server to start with the system, and the WiFi didn't start yet but the server is already On. Now, it will restart without ask only when it is started on the device boot. || If it's manually started, it will ask for a restart in a notification when it detects an IP change. || For some reason, sometimes the notification doesn't pop-up with me. I have no idea why;
-- 
-- Added custom URL to file redirecting;
-- 
-- Enabled IP change of the server (probably won't be of much use except for example for localhost server, but on the PC program it's enabled, so I enabled it here too);
-- 
-- Added option to disable the ps3-updatelist.txt redirection, which means the file will not be redirected, and instead the official one will be used;
-- 
-- The icon in the notifications is now colored for all Android versions, not just older than Lollipop;
-- 
-- All the code is now in english (no idea why I didn't put it in english before...);
-- 
-- Added pictures redirection of What's New, PS Store icon (on games column) and TV/Video Services to PSX-Place news (thanks to DeViL303 for letting me use the XML for his plugin of PSX-Place news for What's New) and/or to any RSS feeds;
-- 
-- The toolbar will now be persistent on the screen;
-- 
-- Update port added;
-- 
-- Updates screen improved;
-- 
-- It's now possible to see the logs of everything that the PS3 accesses and save them in an HTML file (access phone files permission required). This includes the custom redirection rules, pictures redirections, HTTP URLs e HTTPS hosts. || ATTENTION - It's not an automatic checker. The automatic checker keeps stopping itself, so I disabled it, and it's only possible to manually check the logs. A better explanation of this is in the app's instructions;
-- 
-- Added an automated downloader and an install prompter, so you don't have to manually download and install - though, that is still an option if you refuse the permission to access your phone files (to store the update file) or if you stop the download.
+- I'll disable this warning in a week, so people don't need to disable the updates notifier. If I forget (possible), please remind me on GitHub or PSX-Place and I'll remove this text and put it back to normal.
