@@ -27,5 +27,6 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - You're account will NOT be hacked if you had 2FA enabled on it, I believe!!! (if it's the same hack as I heard months ago)
 - I mean hacked, but not only PS3 accounts were hacked -> the ENTIRE PSN. So change the password on ALL your accounts (if they didn't have 2 Factor Authentication enabled for the past year - mine has since years ago, so no need to change it in my case).
 - 
+- ----------------------------------------------------------------------------------
 - 
 - Link for all this on the Download and Install button. Then click on the notification to go directly there.
