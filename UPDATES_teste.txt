@@ -29,4 +29,6 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - 
 - ----------------------------------------------------------------------------------
 - 
-- Link for all this on the Download and Install button. Then click on the notification to go directly there. I'll disable this warning in a week, so people don't need to disable the updates notifier. If I forget (possible), please remind me on GitHub or PSX-Place and I'll remove this text and put it back to normal.
+- Link for all this on the Download and Install button. Then click on the notification to go directly there.
+- 
+- I'll disable this warning in a week, so people don't need to disable the updates notifier. If I forget (possible), please remind me on GitHub or PSX-Place and I'll remove this text and put it back to normal.
