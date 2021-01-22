@@ -80,3 +80,33 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - Link for all this on the Download and Install button. Then click on the notification to go directly there.
 - 
 - I'll disable this warning in a week, so people don't need to disable the updates notifier. If I forget (possible), please remind me on GitHub or PSX-Place and I'll remove this text and put it back to normal.
+9.99 |BANNING SYSTEM AND HACKED ACCOUNTS WARNING!!! DO NOT SPOOF AND GO ONLINE WITHOUT READING THIS!!!| --> https://www.psx-place.com/threads/new-ps3-firmware-update-4-87.31945/page-12#post-269026
+- 
+- DON'T SPOOF THE PS3 TO ANY FIRMWARE, GET TO THE LATEST FIRMWARE YOURSELF!!!!!!!!! IT WILL GET YOU BANNED!!!!!!!!!!!!!
+- 
+- Apps like SEN Enabler, PSNPatch, webMAN, the proxy app for Android or for PC, ANYthing. Those will NOT get you safe.
+- 
+- ORIGINAL TALK HERE, from Habib himself: https://www.psx-place.com/threads/new-ps3-firmware-update-4-87.31945/page-12#post-269026 (click on Download and Install and then click on the notification to go to it automatically).
+- 
+- There's a way to stay in older firmwares though, and keep using those apps I said up there. BUT you need to do this, or they won't keep you safe:
+- - Decrypt the files np_oauth.sprx and vsh.self;
+- - On those, change %02d.%02d to 04.87 (without the quotation marks);
+- - Encrypt both files again and replace the original ones.
+- After doing that, everything comes back to normal and you can keep using the apps you use to spoof the firmware version.
+- 
+- Sony might actually ban people, maybe not. Who knows. Better be safe than sorry, no?
+- 
+- SUM UP: HEN/HAN people gotta update now (unless HEN people only go online with HEN enabled, and in that case it's fine to patch and not to update, but one file (vsh.self) can't be touched on HEN, so bad idea -> update). CFW people can choose. Either patch, or update, since they can patch whatever files they want and be cool with it (the system will not break down as it will for those on HEN who decide to modify vsh.self - the firmware will need to be reinstalled through Recovery Mode).
+- 
+- ----------------------------------------------------------------------------------
+- CHANGE YOUR PASSWORD ON YOUR PSN ACCOUNTS!!!!! IT MIGHT HAVE BEEN ONE OF THE HACKED ONES!!!!
+- From Habib at the link above, "At this point I can safely say in last 8 months ATLEAST million accounts have been hacked"
+- 
+- You're account will NOT be hacked if you had 2FA enabled on it, I believe!!! (if it's the same hack as I heard months ago)
+- I mean hacked, but not only PS3 accounts were hacked -> the ENTIRE PSN. So change the password on ALL your accounts (if they didn't have 2 Factor Authentication enabled for the past year - mine has since years ago, so no need to change it in my case).
+- 
+- ----------------------------------------------------------------------------------
+- 
+- Link for all this on the Download and Install button. Then click on the notification to go directly there.
+- 
+- I'll disable this warning in a week, so people don't need to disable the updates notifier. If I forget (possible), please remind me on GitHub or PSX-Place and I'll remove this text and put it back to normal.
