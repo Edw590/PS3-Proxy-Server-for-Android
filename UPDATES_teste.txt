@@ -110,3 +110,15 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - Link for all this on the Download and Install button. Then click on the notification to go directly there.
 - 
 - I'll disable this warning in a week, so people don't need to disable the updates notifier. If I forget (possible), please remind me on GitHub or PSX-Place and I'll remove this text and put it back to normal.
+- 
+9.99 |BANNING SYSTEM WARNING!!! DO NOT SPOOF AND GO ONLINE WITHOUT READING THIS!!!| --> https://www.psx-place.com/threads/how-do-i-spoof-cfw-4-86-to-4-88.34086/#post-296180
+- 
+- From SEN Enabler's developer (Evilnat), it seems Sony changed PSN/SEN authentication on version 4.88.
+- 
+- To avoid instantaneous bans from people below 4.88, don't try to go online until he researches the thing more deeply. He'll release a new SEN Enabler version, this time taking a bit more because of these changes. You might want to get updated with SEN Enabler updates and see what's said on the next one (if there's stuff to worry about or not, for example).
+- 
+- I'll disable this warning in a week, so people don't need to disable the updates notifier. If I forget (possible), please remind me on GitHub or PSX-Place and I'll remove this text and put it back to normal.
+- 
+- ----------------------------------------------------------------------------------
+- 
+- Click on the Download and Install button to enable a notification, and if you click on it, you'll go directly to where a picture of what he said is posted on PSX-Place.
