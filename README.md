@@ -8,7 +8,7 @@ After installing the app, just choose a port (or use the default one - 8080), ch
 -----
 Copied from the website where I first released this app (PSX-Place): https://www.psx-place.com/resources/ps3-proxy-server-for-android.795/.
 
-Downloads: 62 000+ (13-10-2021 -- DD/MM/YYYY) --> https://githubstats0.firebaseapp.com/.
+Downloads: 77 000+ (11-07-2022 -- DD/MM/YYYY) --> https://githubstats0.firebaseapp.com/.
 
 **Note:** To see what the next version might have, see this link: https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
 
