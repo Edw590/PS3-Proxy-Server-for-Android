@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+	<uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+	<application
+		android:allowBackup="true"
+		android:icon="@drawable/main_old_icon_without_borders"
+		android:label="@string/app_name"
+		android:roundIcon="@drawable/main_old_icon_without_borders"
+		android:supportsRtl="true"
+		android:theme="@style/AppTheme">
+
+		<activity android:name=".Rules"/>
+		<activity android:name=".Real_time_logging" />
+		<activity android:name=".Instructions" />
+		<activity android:name=".Initial_instructions" />
+		<activity android:name=".Update_Found" />
+		<activity
+			android:name=".Credits"
+			android:configChanges="orientation|screenSize" />
+		<activity
+			android:name=".Settings"
+			android:configChanges="orientation|screenSize" />
+		<activity
+			android:name=".Initial_credits"
+			android:configChanges="orientation|screenSize" />
+		<activity
+			android:name=".Restarter_Main"
+			android:configChanges="orientation|screenSize" />
+		<activity
+			android:name=".Restarter_Service"
+			android:configChanges="orientation|screenSize" />
+		<activity
+			android:name=".Main"
+			android:configChanges="orientation|screenSize">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+		<service
+			android:name=".Service"
+			android:enabled="true"
+			android:exported="false" />
+
+		<receiver
+			android:name=".Initialization_receptor"
+			android:enabled="true">
+			<intent-filter>
+				<action android:name="android.intent.action.BOOT_COMPLETED" />
+			</intent-filter>
+		</receiver>
+
+		<provider
+			android:name="androidx.core.content.FileProvider"
+			android:authorities="${applicationId}.authorityStr"
+			android:exported="false"
+			android:grantUriPermissions="true">
+			<meta-data
+				android:name="android.support.FILE_PROVIDER_PATHS"
+				android:resource="@xml/paths"/>
+		</provider>
+	</application>
+
+</manifest>

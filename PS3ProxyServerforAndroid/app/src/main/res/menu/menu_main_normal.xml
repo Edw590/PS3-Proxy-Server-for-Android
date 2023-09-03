@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/instructions"
+        android:orderInCategory="100"
+        android:title="@string/how_to_use"/>
+
+    <item
+        android:id="@+id/rules"
+        android:orderInCategory="100"
+        android:title="@string/rules"/>
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="@string/settings"/>
+
+    <item
+        android:id="@+id/credits"
+        android:orderInCategory="200"
+        android:title="@string/credits_menu"/>
+
+</menu>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/settings"
+            android:title="@string/settings"
+            android:icon="@drawable/play_pause_original"/>
+
+        <item
+            android:id="@+id/credits"
+            android:title="@string/credits"
+            android:icon="@drawable/play_pause_original"/>
+
+    </group>
+
+    <item
+        android:title="Teste">
+        <menu>
+            <item android:id="@+id/settings_1"
+                android:title="@+id/settings_1"
+                android:icon="@drawable/play_pause_original"/>
+            <item
+                android:id="@+id/creditos_1"
+                android:title="Credits_1"
+                android:icon="@drawable/play_pause_original"/>
+        </menu>
+    </item>
+
+</menu>
