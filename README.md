@@ -1,6 +1,10 @@
 # PS3-Proxy-Server-for-Android
 PS3 Proxy server with various options, like firmware "spoof" and system update blocker - for Android
 
+## Download
+
+To download, go to [Releases](https://github.com/Edw590/PS3-Proxy-Server-for-Android/releases).
+
 ## How to use
 
 After installing the app, just choose a port (or use the default one - 8080), choose the IP or leave the automatic one, and then just go on the PS3, network settings, and configure the proxy there.
