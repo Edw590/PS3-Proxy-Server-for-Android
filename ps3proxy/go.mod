@@ -1,4 +1,4 @@
-module ps3_proxy_v2.1/v2.1_sem_bloqueio
+module ps3_proxy
 
 go 1.20
 
