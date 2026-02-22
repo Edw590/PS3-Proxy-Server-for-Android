@@ -12,11 +12,11 @@ android {
 		minSdkVersion 15
 		//noinspection ExpiredTargetSdkVersion
 		targetSdkVersion 30
-		versionCode 4
+		versionCode 5
 		// todo MUDA O VERSIONCODE E O VERSIONNAME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 		// If you want this as x.x.x, check `double version_name = Double.parseDouble(BuildConfig.VERSION_NAME);` on
 		// Main.java.
-		versionName "2.2"
+		versionName "2.3"
 	}
 
 	buildTypes {
