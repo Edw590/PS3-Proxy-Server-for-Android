@@ -50,8 +50,12 @@ File for PS3 Proxy Server for Android to prompt to download and install the upda
 - 
 - Added an automated downloader and an install prompter, so you don't have to manually download and install - though, that is still an option if you refuse the permission to access your phone files (to store the update file) or if you stop the download.
 - 
-2.2 |NEW| --> https://github.com/Edw590/PS3-Proxy-Server-for-Android/releases/download/v2.2/PS3_Proxy_Server_for_Android_v2.2.apk
+2.2 --> https://github.com/Edw590/PS3-Proxy-Server-for-Android/releases/download/v2.2/PS3_Proxy_Server_for_Android_v2.2.apk
 - 
 - Fixed IP issue of "localhost"
 - 
 - I didn't change anything else - too much work to update the app... The code is a mess. Needs a full rewrite.
+- 
+2.3 |NEW| --> https://github.com/Edw590/PS3-Proxy-Server-for-Android/releases/download/v2.3/PS3_Proxy_Server_for_Android_v2.3.apk
+- 
+- App is now installable on Android 14+ (updated `targetSdkVersion` to 30)
