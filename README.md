@@ -1,6 +1,10 @@
 # PS3-Proxy-Server-for-Android
 PS3 Proxy server with various options, like firmware "spoof" and system update blocker - for Android
 
+## Download
+
+To download, go to [Releases](https://github.com/Edw590/PS3-Proxy-Server-for-Android/releases).
+
 ## How to use
 
 After installing the app, just choose a port (or use the default one - 8080), choose the IP or leave the automatic one, and then just go on the PS3, network settings, and configure the proxy there.
@@ -10,7 +14,7 @@ Copied from the website where I first released this app (PSX-Place): https://www
 
 Downloads: 103 000+ (03-09-2023 -- DD/MM/YYYY) --> https://githubstats0.firebaseapp.com/.
 
-**Note:** To see what the next version might have, see this link: https://github.com/DADi590/PS3-Proxy-Server-for-Android/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
+**Note:** To see what the next version might have, see this link: https://github.com/Edw590/PS3-Proxy-Server-for-Android/releases. I always write there what's coming and I keep updating it, so I don't forget what needs to be done and others can possibly see and say something in case they don't agree or have a better idea.
 
 **This app can be used on ALL Firmwares! That means, OFW (HFW too..., which is OFW) and CFW. It was made for HAN, but works without anything on the PS3 - pure OFW. Works too with PS3HEN and CFW. Anything. It doesn't need anything special on the PS3 aside from configuring the network settings.**
 
