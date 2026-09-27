@@ -1,0 +1,54 @@
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'android-folder-picker-library'
+    bintrayName = 'android-folder-picker-library'
+
+    publishedGroupId = 'lib.kashif'
+    libraryName = 'android-folder-picker-library'
+    artifact = 'folderpicker'
+    libraryVersion = '2.4'
+
+    libraryDescription = 'A lightweight android library for picking folders and files.'
+
+    siteUrl = 'https://github.com/kashifo/android-folder-picker-library'
+    gitUrl = 'https://github.com/kashifo/android-folder-picker-library.git'
+
+    developerId = 'kashifo'
+    developerName = 'Kashif Anwaar'
+    developerEmail = 'koderkashif@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
+android {
+    namespace = "lib.folderpicker"
+
+    compileSdkVersion = 30
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 27
+        versionCode = 4
+        versionName = "2.4"
+
+        testInstrumentationRunner = "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled = false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    androidTestImplementation 'junit:junit:4.12'
+}
