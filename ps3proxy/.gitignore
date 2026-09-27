@@ -1,0 +1,9 @@
+########################################################
+# Exclude from Git, Project and Deployment (unused files in the project - documentation, notes,...)
+-*
+# Exclude only from Git (EOG = Exclude Only Git) - personal things
+*_EOG.*
+*_EOG
+########################################################
+
+.idea/
